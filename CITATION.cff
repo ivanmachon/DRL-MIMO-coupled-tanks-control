@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository. A related manuscript is currently under review."
+title: "Reinforcement learning for control of nonlinear MIMO coupled systems"
+authors:
+  - family-names: "Machón-González"
+    given-names: "Iván"
+  - family-names: "López-García"
+    given-names: "Hilario"
+  - family-names: "Espitia-Cuchango"
+    given-names: "Helbert"
+year: 2026
+version: "1.0.0"
+repository-code: "https://github.com/ivanmachon/DRL-MIMO-coupled-tanks-control"
+license: "MIT"
+keywords:
+  - reinforcement learning
+  - DDPG
+  - TD3
+  - SAC
+  - MIMO control
+  - nonlinear systems
+  - Simulink
+  - MATLAB
